@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on a PhD thesis about text recognition
+- 🌱 I’m currently learning more about neural networks
+- 📜 I’m looking to collaborate on the publication of digital scholarly editions (via [DiScholEd](https://discholed.huma-num.fr/exist/apps/discholed/index.html))
+- 👩‍💻 Ask me about encoding in TEI XML
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: I am a big nerd when it comes to history
