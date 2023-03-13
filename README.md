@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on a PhD thesis about text recognition
+- 🔭 I’m currently working on a [PhD thesis](https://flochiff.github.io/phd/) about text recognition
 - 🌱 I’m currently learning more about neural networks
 - 📜 I’m looking to collaborate on the publication of digital scholarly editions (via [DiScholEd](https://discholed.huma-num.fr/exist/apps/discholed/index.html))
 - 👩‍💻 Ask me about encoding in TEI XML
