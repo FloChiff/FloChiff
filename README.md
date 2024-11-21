@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🏫 I’m currently working at @obtic-sorbonne as an engineer
+- 🏫 I’m currently working at [ObTIC](https://obtic.sorbonne-universite.fr/) as an engineer
 - 🤓 I have a PhD in digital humanities, with a research topic about automatic text recognition
 - 📜 Take a look at the publication interface for digital scholarly editions I developed: [DiScholEd](https://discholed.huma-num.fr/exist/apps/discholed/index.html)
 - 👩‍💻 Ask me about encoding in TEI XML
